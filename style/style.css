@@ -1,0 +1,25 @@
+.idk{
+    max-height: 200px;
+max-width: 200px;
+width: 200px;
+height: 200px;
+}
+.main{
+    background:url("https://images.pexels.com/photos/242236/pexels-photo-242236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    text-align: center;
+}
+.welcome{
+    font-size: 50px;
+    font-family: monospace;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.author{
+    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 30px;
+}
+.informacje{
+    
+}
